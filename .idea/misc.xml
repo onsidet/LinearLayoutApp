@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.163" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1985" />
@@ -10,8 +11,10 @@
         <entry key="app/src/main/res/drawable/shapeemail.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/shapelogin.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/shaperegister.xml" value="0.1985" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33695652173913043" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.23596014492753623" />
       </map>
     </option>
   </component>
