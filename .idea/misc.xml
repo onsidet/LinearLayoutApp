@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/shape_email.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/shape_login.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/shapeemail.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/shapelogin.xml" value="0.1985" />
@@ -15,6 +16,9 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33695652173913043" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/gird_layout.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/relative.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/relativelayout.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -23,5 +27,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>
