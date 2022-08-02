@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Andrid/LinearLayoutApp/app/src/main/res/layout/gird_layout.xml" value="0.1897644927536232" />
+        <entry key="..\:/Andrid/LinearLayoutApp/app/src/main/res/layout/relative.xml" value="0.1897644927536232" />
         <entry key="app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.163" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1985" />
